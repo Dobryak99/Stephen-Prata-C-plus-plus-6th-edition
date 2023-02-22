@@ -1,6 +1,6 @@
 //usestock0.cpp -- клиентская программа
 #include <iostream>
-#include "stocks20.h"
+#include "stock20.h"
 
 const int STKS = 4;
 
