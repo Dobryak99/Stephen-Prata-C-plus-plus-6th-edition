@@ -1,6 +1,5 @@
 #include <iostream>
 #include "ex10_2.h"
-#include "ex10_2.cpp"
 
 int main()
 {
