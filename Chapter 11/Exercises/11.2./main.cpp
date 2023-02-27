@@ -3,7 +3,7 @@
 #include <cstdlib>   //прототипы rand(), srand()
 #include <ctime>     //прототип time();
 #include "11.2.h"
-#include "11.2.cpp"
+//#include "11.2.cpp"
 
 int main()
 {
