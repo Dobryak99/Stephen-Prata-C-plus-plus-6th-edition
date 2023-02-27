@@ -4,7 +4,7 @@
 #include <cstdlib>   //прототипы rand(), srand()
 #include <ctime>     //прототип time();
 #include "11.1.h"
-#include "11.1.cpp"
+//#include "11.1.cpp"
 
 int main()
 {
