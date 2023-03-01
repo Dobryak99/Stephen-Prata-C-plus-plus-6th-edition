@@ -1,5 +1,5 @@
 #include "String.h"
-#include "String.cpp"
+//#include "String.cpp"
 using namespace std;
 //-------------------------------------------------------------------------------------------------
 int main()
