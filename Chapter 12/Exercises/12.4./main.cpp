@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cctype>
 #include "stack.h"
-#include "stack.cpp"
+//#include "stack.cpp"
 
 int main()
 {
