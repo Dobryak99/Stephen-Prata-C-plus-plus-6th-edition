@@ -1,6 +1,6 @@
 #include <iostream>
 #include "stock.h"
-#include "stock.cpp"
+//#include "stock.cpp"
 
 const int STKS = 4;
 int main()
