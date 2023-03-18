@@ -1,5 +1,5 @@
 // wrapped.cpp -- вызываемые типы и шаблоны
-#include "first.h"
+#include "somedefs.h"
 #include <iostream>
 #include <functional>
 
