@@ -20,4 +20,5 @@
 Стивен Прата изучал астрономию, физику и вычислительную технику в Морском колледже (Кентфилд, Калифорния).
 Он получил степень бакалавра в Калифорнийском институте технологий и степень доктора философии в Университете Калифорнии в Беркли. Является автором и соавтором свыше десятка книг по программированию, среди которых New C Primer Plus, выигравшая в 1990 году номинацию лучшей справочной компьютерной книги (Computer Press Association's 1990 Best How-to Computer Book Award), и C++ Primer Plus, в 1991 году выдвинутая на номинацию Computer Press Association's Best How-to Computer Book Award.
 6-е издание.
+  
 ![Alt text](https://github.com/Dobryak99/Stephen-Prata-C-plus-plus-6th-edition/blob/main/screenshots/Students_book.jpeg)
